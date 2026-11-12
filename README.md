@@ -1,11 +1,11 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=250§ion=header&text=DEEKSHA%20S&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20&%20Data%20Science%20Engineer%20|%20AutoML%20Creator&descSize=16&descAlignY=58" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=260§ion=header&text=DEEKSHA%20S&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20&%20Data%20Science%20Engineer%20|%20Full-Stack%20Developer&descSize=15&descAlignY=60" width="100%" />
 
   <p align="center">
-    <img src="https://img.shields.io/badge/STATUS-READY%20TO%20BUILD-success?style=for-the-badge&logo=appveyor" />
-    <img src="https://img.shields.io/badge/DOMAIN-AI%20%2F%20ML%20%2F%20DATA%20SCIENCE-blueviolet?style=for-the-badge&logo=databricks&logoColor=white" />
-    <img src="https://img.shields.io/badge/DEGREE-B.E.%20AI%20&%20DS%20('27)-orange?style=for-the-badge&logo=gradles&logoColor=white" />
+    <img src="https://img.shields.io/badge/STATUS-READY%20TO%20INNOVATE-success?style=for-the-badge&logo=appveyor" />
+    <img src="https://img.shields.io/badge/EDUCATION-B.E.%20AI%20&%20DS%20('27)-blueviolet?style=for-the-badge&logo=gradles&logoColor=white" />
+    <img src="https://img.shields.io/badge/INSTITUTION-SMVITM%20Udupi-orange?style=for-the-badge&logo=kentico&logoColor=white" />
   </p>
 
 </div>
@@ -16,12 +16,12 @@
 
 <table align="center">
 <tr>
-<td width="700">
+<td width="720">
 
-* 🔭 I’m an **Artificial Intelligence & Data Science** undergraduate at **SMVITM** (Batch of 2027).
-* 💡 Specialized in building **AutoML frameworks**, deep learning classifiers, and scalable full-stack applications.
-* ⚡ Obsessed with turning complex mathematical pipelines and datasets into clean, automated software solutions.
-* 🎯 Always exploring new frontiers in machine learning optimization and explainable AI (SHAP).
+* 🔭 I am an **Artificial Intelligence and Data Science Engineering Student** at **SMVITM** (Expected Graduation: 2027) with an 8.04 CGPA[cite: 15].
+* 💡 Passionate about building intelligent systems, hybrid AutoML frameworks, deep learning image classifiers, and scalable full-stack web applications[cite: 15].
+* 🏆 Recognized as **2nd Runner-Up** in Innovation & Design Thinking at COMEDKARES Innovation Hub[cite: 15].
+* 🌐 Multilingual developer proficient in English, Kannada, and Hindi[cite: 15].
 
 </td>
 <td>
@@ -32,10 +32,72 @@
 
 ---
 
-### ⚡ Technical Arsenal & Tech Stack
+### 🛠️ Technical Arsenal & Skills
 
 <div align="center">
 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  
+  <br>
+
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-1D2B53?style=for-the-badge&logo=xgboost&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+  <br>
+
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+
+  <br>
+
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+
+</div>
+
+---
+
+### 🚀 Featured Repositories & Projects
+
+| Project Repository | Core Tech Stack | Description |
+| :--- | :--- | :--- |
+| **[Automated-Model-Evaluation-Framework](https://github.com/deekshas07/Automated-Model-Evaluation-Framework)** | Python, Pandas, NumPy, Scikit-Learn, XGBoost, CatBoost | Hybrid AutoML framework integrating a 100+ rule-based preprocessing engine, dual-track model selection, and automated hyperparameter tuning[cite: 15]. |
+| **[Multilingual-Plant-Detection-System](https://github.com/deekshas07/Multilingual-Plant-Detection-System)** | Python, TensorFlow, ResNet50, Gradio | Deep learning image classification system identifying 11 Ayurvedic medicinal plant species with 99.29% validation accuracy and bilingual Kannada/English support[cite: 15]. |
+| **[Restaurant-Order-Tracker](https://github.com/deekshas07/Restaurant-Order-Tracker)** | React.js, Node.js, Express.js, PostgreSQL, MongoDB, Redis | Full-stack order management dashboard with real-time status tracking, multi-database architecture, and Redis caching[cite: 15]. |
+
+---
+
+### 📜 Certifications & Achievements
+
+* 🏆 **2nd Runner-Up in Innovation & Design Thinking** – COMEDKARES Innovation Hub[cite: 15].
+* 🤖 **AI Literacy Certification** – IBM SkillsBuild (Covering core AI concepts, applications, and ethics)[cite: 15].
+* 🐳 **DevOps Essentials** – AlgoOrbit Innovations Pvt. Ltd. (Practical understanding of Git, CI/CD, containerization, and software deployment)[cite: 15].
+
+---
+
+### 📊 GitHub Stats & Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deekshas07&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deekshas07&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=38BDF8" width="48%" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=40,30,20,11,6&height=120§ion=footer" width="100%" />
+</div>
