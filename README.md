@@ -14,21 +14,9 @@
 
 ### 🔥 About Me
 
-<table align="center">
-<tr>
-<td width="720">
-
 * 🔭 I am an **Artificial Intelligence and Data Science Engineering Student** at **SMVITM** (Expected Graduation: 2027) with an 8.04 CGPA[cite: 15].
 * 💡 Passionate about building intelligent systems, hybrid AutoML frameworks, deep learning image classifiers, and scalable full-stack web applications[cite: 15].
-* 🏆 Recognized as **2nd Runner-Up** in Innovation & Design Thinking at COMEDKARES Innovation Hub[cite: 15].
 * 🌐 Multilingual developer proficient in English, Kannada, and Hindi[cite: 15].
-
-</td>
-<td>
-  <img align="center" src="https://komarev.com/ghpvc/?username=deekshas07&style=for-the-badge&color=blueviolet&label=Profile+Visits" />
-</td>
-</tr>
-</table>
 
 ---
 
@@ -63,32 +51,5 @@
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-
-</div>
-
----
-
-### 🚀 Featured Repositories & Projects
-
-| Project Repository | Core Tech Stack | Description |
-| :--- | :--- | :--- |
-| **[Automated-Model-Evaluation-Framework](https://github.com/deekshas07/Automated-Model-Evaluation-Framework)** | Python, Pandas, NumPy, Scikit-Learn, XGBoost, CatBoost | Hybrid AutoML framework integrating a 100+ rule-based preprocessing engine, dual-track model selection, and automated hyperparameter tuning[cite: 15]. |
-| **[Multilingual-Plant-Detection-System](https://github.com/deekshas07/Multilingual-Plant-Detection-System)** | Python, TensorFlow, ResNet50, Gradio | Deep learning image classification system identifying 11 Ayurvedic medicinal plant species with 99.29% validation accuracy and bilingual Kannada/English support[cite: 15]. |
-| **[Restaurant-Order-Tracker](https://github.com/deekshas07/Restaurant-Order-Tracker)** | React.js, Node.js, Express.js, PostgreSQL, MongoDB, Redis | Full-stack order management dashboard with real-time status tracking, multi-database architecture, and Redis caching[cite: 15]. |
-
----
-
-### 📜 Certifications & Achievements
-
-* 🏆 **2nd Runner-Up in Innovation & Design Thinking** – COMEDKARES Innovation Hub[cite: 15].
-* 🤖 **AI Literacy Certification** – IBM SkillsBuild (Covering core AI concepts, applications, and ethics)[cite: 15].
-* 🐳 **DevOps Essentials** – AlgoOrbit Innovations Pvt. Ltd. (Practical understanding of Git, CI/CD, containerization, and software deployment)[cite: 15].
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=40,30,20,11,6&height=120§ion=footer" width="100%" />
-</div>
+  <img src="
+  
