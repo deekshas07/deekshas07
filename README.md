@@ -14,13 +14,13 @@
 
 ### 🔥 About Me
 
-* 🔭 I am an **Artificial Intelligence and Data Science Engineering Student** at **SMVITM** (Expected Graduation: 2027) with an 8.04 CGPA[cite: 15].
-* 💡 Passionate about building intelligent systems, hybrid AutoML frameworks, deep learning image classifiers, and scalable full-stack web applications[cite: 15].
-* 🌐 Multilingual developer proficient in English, Kannada, and Hindi[cite: 15].
+* 🔭 I am an **Artificial Intelligence and Data Science Engineering Student** at **SMVITM** (Expected Graduation: 2027) with an 8.04 CGPA.
+* 💡 Passionate about building intelligent systems, hybrid AutoML frameworks, deep learning image classifiers, and scalable full-stack web applications.
+* 🌐 Multilingual developer proficient in English, Kannada, and Hindi.
 
 ---
 
-### 🛠️ Technical Arsenal & Skills
+### 🛠️ Technical & Skills
 
 <div align="center">
 
