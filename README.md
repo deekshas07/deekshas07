@@ -89,15 +89,6 @@
 
 ---
 
-### 📊 GitHub Stats & Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deekshas07&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deekshas07&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=38BDF8" width="48%" />
-</div>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=40,30,20,11,6&height=120§ion=footer" width="100%" />
 </div>
